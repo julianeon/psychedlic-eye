@@ -1,13 +1,14 @@
 # About
 
-Sorry about the misspelling (should be psychedelic). Doesn't affect the code though!
-
 In 2023 this runs but only if you enter this into the terminal first:
 
 export NODE_OPTIONS=--openssl-legacy-provider
 
 Due to openssl issue with latest node versions.
 
+Also, sorry about the misspelling (should be psychedelic). 
+
+Live demo [here](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com/).
 
 ![pyschedelic eyes](./public/psychedelic_eyes.png)
 
